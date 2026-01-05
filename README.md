@@ -268,5 +268,5 @@ Garantit que book-service démarre **après** que MySQL soit prêt.
 
 ---
 
-**Bon apprentissage !** 🚀
+
 
